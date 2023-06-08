@@ -1,0 +1,47 @@
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #06a8a8;
+    color: white;
+}
+
+
+#inicio img {
+    max-width: 100%;
+    width: 1700px;
+    height: 300px;
+    object-fit: cover;
+}
+#pacotes img, 
+#hoteis img {
+    max-width: 100%;
+    width: 354px;
+    height: 400px;
+    object-fit: cover;
+}
+#hoteis img {
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+#hoteis {
+    padding: 25px;
+}
+#hoteis h2 {
+    color: white;
+    background-color: #06a8a8;
+    text-align: center;
+    padding: 50px;
+}
+footer {
+    background-color: black;
+    padding-top: 24px;
+    color: white;
+}
+footer #rodape {
+    
+    text-align: center;
+} 
