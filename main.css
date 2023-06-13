@@ -7,6 +7,9 @@ header {
     color: white;
 }
 
+.nav .nav-link.active {
+    background-color: white;
+} 
 
 #inicio img {
     max-width: 100%;
